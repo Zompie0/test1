@@ -1,1 +1,8 @@
+@charset    "utf-8";
 
+  .headline{
+    color: red;
+    font-size: 50px;
+    font-family: "myfont",sans-serif; /*上で設定したフォントファミリー名*/
+    text-align: center;
+  }
